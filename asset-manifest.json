@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "https://ashwarytripath.github.io/csb-zy7v8w/static/js/main.298c44d1.chunk.js",
+    "main.js.map": "https://ashwarytripath.github.io/csb-zy7v8w/static/js/main.298c44d1.chunk.js.map",
+    "runtime-main.js": "https://ashwarytripath.github.io/csb-zy7v8w/static/js/runtime-main.b2943b64.js",
+    "runtime-main.js.map": "https://ashwarytripath.github.io/csb-zy7v8w/static/js/runtime-main.b2943b64.js.map",
+    "index.html": "https://ashwarytripath.github.io/csb-zy7v8w/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2943b64.js",
+    "static/js/main.298c44d1.chunk.js"
+  ]
+}
